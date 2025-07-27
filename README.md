@@ -1,7 +1,5 @@
-<h2 align="center">👋 Hi, I'm Aria (Chunjingwen) Cui</h2>
-<h4 align="center">Full Stack Engineer | CS Master's @ University of the Pacific (GPA 4.0) | Seeking SDE Roles in US</h4>
+![Header](./github-header-image.png)
 
----
 
 #### 👩‍💻 About Me
 
