@@ -44,21 +44,24 @@
 #### 🧸 Connect with Me
 
 <p>
+  <a href="https://drive.google.com/file/d/1rFL5wrfoSdZwPOD36E3zzjyBIMeE-Bw0/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
+  <a href="https://ariacui.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ariacui.me-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:ccjwcui@email.com">
     <img src="https://img.shields.io/badge/Email-Aria-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aria-ccui/">
     <img src="https://img.shields.io/badge/LinkedIn-Aria%20Cui-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/ccccjone">
-    <img src="https://img.shields.io/badge/GitHub-ccccjone-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://discordapp.com/users/ccccjone">
     <img src="https://img.shields.io/badge/Discord-ccccjone-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1rFL5wrfoSdZwPOD36E3zzjyBIMeE-Bw0/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=readme&logoColor=white" />
-</a>
+  <a href="https://github.com/ccccjone">
+    <img src="https://img.shields.io/badge/GitHub-ccccjone-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
