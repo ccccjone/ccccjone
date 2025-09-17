@@ -44,7 +44,7 @@
 #### 🧸 Connect with Me
 
 <p>
-  <a href="https://drive.google.com/file/d/1rFL5wrfoSdZwPOD36E3zzjyBIMeE-Bw0/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1OeK4CR6y_iSLHCtCkBnH_6n3ZpZeRXNB/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
   <a href="https://ariacui.me" target="_blank">
