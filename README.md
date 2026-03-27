@@ -44,10 +44,10 @@
 #### 🧸 Connect with Me
 
 <p>
-  <a href="https://drive.google.com/file/d/1OeK4CR6y_iSLHCtCkBnH_6n3ZpZeRXNB/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1digYWYBbm0ccfgL-Nk16CY-_Q5qAswxQ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
-  <a href="https://ariacui.me" target="_blank">
+  <a href="https://main.d91pgcw9fmrbc.amplifyapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ariacui.me-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:ccjwcui@email.com">
